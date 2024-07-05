@@ -18,7 +18,7 @@ A repository that contains notes from Sisterslab Cyber Security Academy mashed w
  - Common vulnerabilities 
  - Security devices 
  - Individual security
- - 
+   
 ## GNU/Linux 101 
  - Operating system concept 
  - GNU/Linux history 
@@ -34,8 +34,8 @@ A repository that contains notes from Sisterslab Cyber Security Academy mashed w
  - Archive commands 
  - Linux package management 
  - Output redirection 
- - Bandit application 
-Network 101 
+ - Bandit application
+## Network 101 
  - OSI model 
  - IP address 
  - MAC address 
@@ -43,7 +43,7 @@ Network 101
  - Three Way Handshake 
  - Subnetting 
  - Common protocols and ports
-RED TEAM 101
+## RED TEAM 101
  - Active information gathering methods 
  - Passive information gathering methods 
  - Portswigger Lab Applied Solutions 
