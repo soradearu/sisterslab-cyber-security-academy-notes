@@ -35,6 +35,7 @@ A repository that contains notes from Sisterslab Cyber Security Academy mashed w
  - Linux package management 
  - Output redirection 
  - Bandit application
+   
 ## Network 101 
  - OSI model 
  - IP address 
@@ -43,6 +44,7 @@ A repository that contains notes from Sisterslab Cyber Security Academy mashed w
  - Three Way Handshake 
  - Subnetting 
  - Common protocols and ports
+   
 ## RED TEAM 101
  - Active information gathering methods 
  - Passive information gathering methods 
@@ -62,6 +64,7 @@ A repository that contains notes from Sisterslab Cyber Security Academy mashed w
    - Cross-origin Resource Sharing (CORS) 
    - Clickjacking 
    - DOM-based Vulnerabilities
+     
 ## Blue Team 101 
  - SOC triad 
  - Basic concepts 
